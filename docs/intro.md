@@ -9,4 +9,4 @@ slug: /
 
 All in one software management system that every **organization** needs.
 
-In order to track design progress of the project: https://www.figma.com/file/rW6jeno2eyqMszrshVJubN/
+In order to track design progress of the project: https://www.figma.com/file/Lklm004SFl5KFOKI5LckU6/Untitled?node-id=0%3A1&t=nutRnWmhYszFocLU-1
