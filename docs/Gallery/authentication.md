@@ -15,3 +15,7 @@ Sign Up page 1:
 Sign Up page 2:
 
 ![Sign Up2](../../static/img/project/auth/signup-2.png)
+
+User Settings:
+
+![User Settings](../../static/img/project/auth/user-settings.png)
